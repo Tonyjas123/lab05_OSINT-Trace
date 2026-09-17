@@ -24,7 +24,7 @@ OSINT-Trace facilita la recolección de información en fuentes abiertas. Permit
 Sigue estos pasos para clonar el repositorio e instalar la herramienta en tu entorno local:
 
 ```bash
-git clone [https://github.com/Tonyjas123/lab05_OSINT-Trace.git](https://github.com/Tonyjas123/lab05_OSINT-Trace.git)
+git clone https://github.com/Tonyjas123/lab05_OSINT-Trace.git
 cd lab05_OSINT-Trace
 pip install -r requirements.txt
 python main.py
